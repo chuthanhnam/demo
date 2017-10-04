@@ -1,0 +1,17 @@
+G:\ASP.NET\OnlineShop\OnlineShop.Tests\bin\Debug\OnlineShop.Tests.dll
+G:\ASP.NET\OnlineShop\OnlineShop.Tests\bin\Debug\OnlineShop.Tests.pdb
+G:\ASP.NET\OnlineShop\OnlineShop.Tests\bin\Debug\OnlineShop.dll
+G:\ASP.NET\OnlineShop\OnlineShop.Tests\bin\Debug\System.Web.Mvc.dll
+G:\ASP.NET\OnlineShop\OnlineShop.Tests\bin\Debug\System.Web.Razor.dll
+G:\ASP.NET\OnlineShop\OnlineShop.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\ASP.NET\OnlineShop\OnlineShop.Tests\bin\Debug\System.Web.WebPages.dll
+G:\ASP.NET\OnlineShop\OnlineShop.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\ASP.NET\OnlineShop\OnlineShop.Tests\bin\Debug\OnlineShop.pdb
+G:\ASP.NET\OnlineShop\OnlineShop.Tests\bin\Debug\System.Web.Mvc.xml
+G:\ASP.NET\OnlineShop\OnlineShop.Tests\bin\Debug\System.Web.Razor.xml
+G:\ASP.NET\OnlineShop\OnlineShop.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+G:\ASP.NET\OnlineShop\OnlineShop.Tests\bin\Debug\System.Web.WebPages.xml
+G:\ASP.NET\OnlineShop\OnlineShop.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\ASP.NET\OnlineShop\OnlineShop.Tests\obj\Debug\OnlineShop.Tests.csprojResolveAssemblyReference.cache
+G:\ASP.NET\OnlineShop\OnlineShop.Tests\obj\Debug\OnlineShop.Tests.dll
+G:\ASP.NET\OnlineShop\OnlineShop.Tests\obj\Debug\OnlineShop.Tests.pdb
